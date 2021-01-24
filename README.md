@@ -14,7 +14,7 @@
       - Python Dasar
       - Python Lanjutan
     - Web
-      - Web Dasar (html+css - Bootstrap or Tailwind) 
+      - Web Dasar (html+css - Bootstrap, Bulma and Tailwind) 
       - Web Lanjutan (PHP - Laravel Framework, JS - React,Vue etc)
     - Mobile
       - Java Android / Kotlin
